@@ -1,0 +1,75 @@
+2025-01-28 19:38:45.723 - Starting test
+2025-01-28 19:38:45.727 - Testing Teams Firefox
+2025-01-28 19:38:47.132 - Going to page
+2025-01-28 19:38:48.304 - Attempting Login
+2025-01-28 19:38:52.091 - Login successful
+2025-01-28 19:38:58.170 - Attaching files
+2025-01-28 19:39:06.591 - Files attached
+2025-01-28 19:39:06.591 - Sending message
+2025-01-28 19:39:07.599 - Sending message
+2025-01-28 19:39:08.819 - Sending message
+2025-01-28 19:39:10.131 - Sending message
+2025-01-28 19:39:11.322 - Ending test
+2025-01-28 19:39:11.322 - 
+
+2025-01-28 19:39:12.049 - Starting test
+2025-01-28 19:39:12.049 - Testing Teams Chrome
+2025-01-28 19:39:12.527 - Going to page
+2025-01-28 19:39:15.541 - Attempting Login
+2025-01-28 19:39:19.999 - Login successful
+2025-01-28 19:39:24.710 - Attaching files
+2025-01-28 19:39:29.035 - Files attached
+2025-01-28 19:39:29.036 - Sending message
+2025-01-28 19:39:30.044 - Sending message
+2025-01-28 19:39:31.236 - Ending test
+2025-01-28 19:39:31.236 - 
+
+2025-01-28 19:51:29.779 - Starting test TeamsFirefoxTest
+2025-01-28 19:51:29.783 - Testing Teams Firefox
+2025-01-28 19:51:31.134 - Going to page
+2025-01-28 19:51:32.111 - Attempting Login
+2025-01-28 19:51:36.532 - Login successful
+2025-01-28 19:51:48.876 - Attaching files
+2025-01-28 19:51:55.870 - Files attached
+2025-01-28 19:51:55.871 - Sending message
+2025-01-28 19:51:56.886 - Sending message
+2025-01-28 19:51:58.120 - Sending message
+2025-01-28 19:51:59.320 - Sending message
+2025-01-28 19:52:00.526 - Ending test
+2025-01-28 19:52:00.527 - 
+
+2025-01-28 19:54:13.047 - Starting test TeamsFirefoxTest
+2025-01-28 19:55:09.267 - Going to page
+2025-01-28 19:55:10.266 - Attempting Login
+2025-01-28 19:55:14.694 - Login successful
+2025-01-28 19:55:38.199 - Attaching files
+2025-01-28 21:05:33.028 - Starting test TeamsFirefoxTest
+2025-01-28 21:05:34.452 - Going to page
+2025-01-28 21:05:35.660 - Attempting Login
+2025-01-28 21:05:40.011 - Login successful
+2025-01-28 21:05:47.173 - Attaching files
+2025-01-28 21:05:54.579 - Files attached
+2025-01-28 21:05:54.581 - Sending message
+2025-01-28 21:05:55.587 - Sending message
+2025-01-28 21:05:57.120 - Sending message
+2025-01-28 21:05:58.335 - Sending message
+2025-01-28 21:05:59.526 - Ending test
+2025-01-28 21:05:59.527 - RanToCompletion
+
+2025-01-28 21:06:04.106 - Starting test nazev testu
+2025-01-28 21:06:04.622 - Going to page
+2025-01-28 21:06:07.837 - Attempting Login
+2025-01-28 21:06:12.274 - Login successful
+2025-01-28 21:06:16.571 - Attaching files
+2025-01-28 21:06:20.984 - Files attached
+2025-01-28 21:06:20.984 - Sending message
+2025-01-28 21:06:21.992 - Sending message
+2025-01-28 21:06:23.202 - Ending test
+2025-01-28 21:06:23.202 - RanToCompletion
+
+2025-01-28 21:07:32.276 - Starting test TeamsFirefoxTest
+2025-01-28 21:07:33.707 - Going to page
+2025-01-28 21:07:34.837 - Attempting Login
+2025-01-28 21:07:35.960 - Starting test TeamsChromeTest
+2025-01-28 21:07:36.463 - Going to page
+2025-01-28 21:07:39.382 - Attempting Login
